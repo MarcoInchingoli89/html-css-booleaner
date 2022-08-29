@@ -1,1 +1,37 @@
-header {background-image: url("img/pattern.png");}
+#container {
+    
+    background-image: url("../img/pattern.png");
+    height: 200px;
+    background-color:deepskyblue;
+    position: relative;
+    
+}
+
+ #logo {
+
+    height: 70px;
+    position: absolute;
+    bottom: 15px;
+    left: 0px;
+
+}
+
+h1 {
+
+    font-size: 50px;
+
+}
+
+#booleaner {
+
+        color:dodgerblue;
+
+}
+
+#date {
+
+        color:darkgray;
+        font-size: 10px;
+        margin-bottom: 20px;
+
+}
