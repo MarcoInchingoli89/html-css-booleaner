@@ -23,17 +23,63 @@ h1 {
 
 }
 
-#date {
+.data {
 
         color:darkgray;
-        font-size: 10px;
-        margin-bottom: 20px;
+        font-size: 15px;
 
 }
 
 .didascalia {
 
       font-size: 10px;             
+
+}
+
+
+thead {
+
+    background-color:deepskyblue;
+
+
+
+
+}
+
+.azzurro {
+
+    background-color: aqua;
+}
+
+.giallo {
+
+    background-color: yellow;
+
+}
+
+#monitor_img {
+
+    background-image: url("../img/monitor.jpg");
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+#grafico_img {
+
+    background-image: url("../img/graph.jpg");
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.bianco {
+
+    color: white;
+
+
 
 
 }
