@@ -1,18 +1,13 @@
 #container {
     
     background-image: url("../img/pattern.png");
-    height: 200px;
     background-color:deepskyblue;
-    position: relative;
     
 }
 
  #logo {
 
-    height: 70px;
-    position: absolute;
-    bottom: 15px;
-    left: 0px;
+    height: 150px;
 
 }
 
